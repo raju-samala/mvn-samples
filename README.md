@@ -1,2 +1,2 @@
 # mvn-samples
-My Basics
+My Basics, Please contact me if you need more information
